@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Upcoming Talks on </title>
-    <link>/talk/</link>
-    <description>Recent content in Upcoming Talks on </description>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 11:20:19 -0400</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Moneyballing Recruiting: A Data-Driven Approach to Battling Bottlenecks and Biases in Hiring</title>
-      <link>/talk/stratany-2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/stratany-2018/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Using R to Analyze Recruiting Pipelines</title>
-      <link>/talk/rladieslightning-2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Always list years of experience in your job description</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Tue, 19 Jun 2018 11:20:19 -0400</pubDate>
       
-      <guid>/talk/rladieslightning-2018/</guid>
-      <description></description>
+      <guid>/posts/my-first-post/</guid>
+      <description>Diverse recruiting funnels: Everybody wants them and nobody has them.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/talk/rladieslightning-2018/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/talk/rladieslightning-2018/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     

@@ -21,7 +21,7 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_slides = "files/r-ladies-lightning-talk-2018.pdf"
-url_video = ""
+url_video = "http://www.rladiesnyc.org/post/lightning-talks-roundup/"
 url_code = ""
 
 # Does the content use math formatting?
