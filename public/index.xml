@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/</link>
+    <link>https://www.maryamjahanshahi.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,58 +11,48 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Always list years of experience in your job description</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Tue, 19 Jun 2018 11:20:19 -0400</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Diverse recruiting funnels: Everybody wants them and nobody has them.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Moneyballing Recruiting: A Data-Driven Approach to Battling Bottlenecks and Biases in Hiring</title>
-      <link>/talk/stratany-2018/</link>
+      <link>https://www.maryamjahanshahi.com/talk/stratany-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/stratany-2018/</guid>
+      <guid>https://www.maryamjahanshahi.com/talk/stratany-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Data Science to Recruit Data Professionals</title>
-      <link>/talk/twdatany-2018/</link>
+      <link>https://www.maryamjahanshahi.com/talk/twdatany-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/twdatany-2018/</guid>
+      <guid>https://www.maryamjahanshahi.com/talk/twdatany-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using R to Analyze Recruiting Pipelines</title>
-      <link>/talk/rladieslightning-2018/</link>
+      <link>https://www.maryamjahanshahi.com/talk/rladieslightning-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/rladieslightning-2018/</guid>
+      <guid>https://www.maryamjahanshahi.com/talk/rladieslightning-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hippo Pathway Targets Rae1 to Regulate Mitosis and Organ Size and to Feed Back to Regulate Upstream Components Merlin, Hippo, and Warts</title>
-      <link>/publication/hippo-rae1/</link>
+      <link>https://www.maryamjahanshahi.com/publication/hippo-rae1/</link>
       <pubDate>Fri, 05 Aug 2016 00:00:00 -0400</pubDate>
       
-      <guid>/publication/hippo-rae1/</guid>
+      <guid>https://www.maryamjahanshahi.com/publication/hippo-rae1/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
+      <link>https://www.maryamjahanshahi.com/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/deep-learning/</guid>
+      <guid>https://www.maryamjahanshahi.com/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -77,49 +67,49 @@
     
     <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>https://www.maryamjahanshahi.com/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>https://www.maryamjahanshahi.com/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Double minute amplification of mutant PDGF receptor α in a mouse glioma model</title>
-      <link>/publication/glioma-pdgfr/</link>
+      <link>https://www.maryamjahanshahi.com/publication/glioma-pdgfr/</link>
       <pubDate>Mon, 16 Feb 2015 00:00:00 -0500</pubDate>
       
-      <guid>/publication/glioma-pdgfr/</guid>
+      <guid>https://www.maryamjahanshahi.com/publication/glioma-pdgfr/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alcohol Interacts with Genetic Alteration of the Hippo Tumor Suppressor Pathway to Modulate Tissue Growth in Drosophila</title>
-      <link>/publication/hippo-alcohol/</link>
+      <link>https://www.maryamjahanshahi.com/publication/hippo-alcohol/</link>
       <pubDate>Mon, 21 Oct 2013 00:00:00 -0400</pubDate>
       
-      <guid>/publication/hippo-alcohol/</guid>
+      <guid>https://www.maryamjahanshahi.com/publication/hippo-alcohol/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rabex-5 Ubiquitin Ligase Activity Restricts Ras Signaling to Establish Pathway Homeostasis in Drosophila</title>
-      <link>/publication/rabex5-ras/</link>
+      <link>https://www.maryamjahanshahi.com/publication/rabex5-ras/</link>
       <pubDate>Tue, 10 Aug 2010 00:00:00 -0400</pubDate>
       
-      <guid>/publication/rabex5-ras/</guid>
+      <guid>https://www.maryamjahanshahi.com/publication/rabex5-ras/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/posts/my-first-post/</link>
+      <link>https://www.maryamjahanshahi.com/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://www.maryamjahanshahi.com/posts/my-first-post/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
