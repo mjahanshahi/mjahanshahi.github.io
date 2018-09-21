@@ -7,7 +7,7 @@ time_end = 2018-09-20T20:00:00
 abstract = "This workshop will focus on how to build a successful foundation for a job search by demonstrating how to frame participants' experiences and expertise. It will teach participants how to: 1. Identify job postings that improve their chances of being interviewed, 2. Better understand the hiring process with the aim of identifying how to stand out as an applicant, 3. Refine their resume through emphasizing themes and skills relevant to job postings."
 
 event = "TDP Meetup NYC"
-event_url = ""
+event_url = "https://www.facebook.com/events/2135577736715538/"
 location = "New York NY"
 
 # Is this a selected talk? (true/false)
