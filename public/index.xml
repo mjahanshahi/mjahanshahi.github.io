@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.maryamjahanshahi.com/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,95 +12,105 @@
     
     <item>
       <title>Data Science your Job Search</title>
-      <link>https://www.maryamjahanshahi.com/talk/tdpworkshopny-2018/</link>
+      <link>/talk/tdpworkshopny-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/tdpworkshopny-2018/</guid>
+      <guid>/talk/tdpworkshopny-2018/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Always list years of experience in your job description</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Tue, 19 Jun 2018 11:20:19 -0400</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Diverse recruiting funnels: Everybody wants them and nobody has them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Moneyballing Recruiting: A Data-Driven Approach to Battling Bottlenecks and Biases in Hiring</title>
-      <link>https://www.maryamjahanshahi.com/talk/stratany-2018/</link>
+      <link>/talk/stratany-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/stratany-2018/</guid>
+      <guid>/talk/stratany-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Data Science to Recruit Data Professionals</title>
-      <link>https://www.maryamjahanshahi.com/talk/tdpmeetupny-2018/</link>
+      <link>/talk/tdpmeetupny-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/tdpmeetupny-2018/</guid>
+      <guid>/talk/tdpmeetupny-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets</title>
-      <link>https://www.maryamjahanshahi.com/talk/pydatany-2018/</link>
+      <link>/talk/pydatany-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/pydatany-2018/</guid>
+      <guid>/talk/pydatany-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using R to Analyze Recruiting Pipelines</title>
-      <link>https://www.maryamjahanshahi.com/talk/rladieslightning-2018/</link>
+      <link>/talk/rladieslightning-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/rladieslightning-2018/</guid>
+      <guid>/talk/rladieslightning-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hippo Pathway Targets Rae1 to Regulate Mitosis and Organ Size and to Feed Back to Regulate Upstream Components Merlin, Hippo, and Warts</title>
-      <link>https://www.maryamjahanshahi.com/publication/hippo-rae1/</link>
+      <link>/publication/hippo-rae1/</link>
       <pubDate>Fri, 05 Aug 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/publication/hippo-rae1/</guid>
+      <guid>/publication/hippo-rae1/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Double minute amplification of mutant PDGF receptor α in a mouse glioma model</title>
-      <link>https://www.maryamjahanshahi.com/publication/glioma-pdgfr/</link>
+      <link>/publication/glioma-pdgfr/</link>
       <pubDate>Mon, 16 Feb 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/publication/glioma-pdgfr/</guid>
+      <guid>/publication/glioma-pdgfr/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alcohol Interacts with Genetic Alteration of the Hippo Tumor Suppressor Pathway to Modulate Tissue Growth in Drosophila</title>
-      <link>https://www.maryamjahanshahi.com/publication/hippo-alcohol/</link>
+      <link>/publication/hippo-alcohol/</link>
       <pubDate>Mon, 21 Oct 2013 00:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/publication/hippo-alcohol/</guid>
+      <guid>/publication/hippo-alcohol/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rabex-5 Ubiquitin Ligase Activity Restricts Ras Signaling to Establish Pathway Homeostasis in Drosophila</title>
-      <link>https://www.maryamjahanshahi.com/publication/rabex5-ras/</link>
+      <link>/publication/rabex5-ras/</link>
       <pubDate>Tue, 10 Aug 2010 00:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/publication/rabex5-ras/</guid>
+      <guid>/publication/rabex5-ras/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.maryamjahanshahi.com/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
