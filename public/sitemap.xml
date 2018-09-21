@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://www.maryamjahanshahi.com/talk/tdpworkshopny-2018/</loc>
+      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://www.maryamjahanshahi.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -50,7 +59,16 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/twdatany-2018/</loc>
+      <loc>https://www.maryamjahanshahi.com/talk/tdpmeetupny-2018/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.maryamjahanshahi.com/talk/pydatany-2018/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -70,24 +88,6 @@
     
       <loc>https://www.maryamjahanshahi.com/publication/hippo-rae1/</loc>
       <lastmod>2016-08-05T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.maryamjahanshahi.com/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.maryamjahanshahi.com/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -159,37 +159,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.maryamjahanshahi.com/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://www.maryamjahanshahi.com/posts/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.maryamjahanshahi.com/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

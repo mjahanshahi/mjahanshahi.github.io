@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Data Science your Job Search</title>
+      <link>https://www.maryamjahanshahi.com/talk/tdpworkshopny-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.maryamjahanshahi.com/talk/tdpworkshopny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Moneyballing Recruiting: A Data-Driven Approach to Battling Bottlenecks and Biases in Hiring</title>
       <link>https://www.maryamjahanshahi.com/talk/stratany-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
@@ -23,10 +32,19 @@
     
     <item>
       <title>Using Data Science to Recruit Data Professionals</title>
-      <link>https://www.maryamjahanshahi.com/talk/twdatany-2018/</link>
+      <link>https://www.maryamjahanshahi.com/talk/tdpmeetupny-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/twdatany-2018/</guid>
+      <guid>https://www.maryamjahanshahi.com/talk/tdpmeetupny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets</title>
+      <link>https://www.maryamjahanshahi.com/talk/pydatany-2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.maryamjahanshahi.com/talk/pydatany-2018/</guid>
       <description></description>
     </item>
     

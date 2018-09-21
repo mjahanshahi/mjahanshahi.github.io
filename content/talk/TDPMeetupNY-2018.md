@@ -5,7 +5,7 @@ title = "Using Data Science to Recruit Data Professionals"
 time_start = 2018-08-31T18:30:00
 time_end = 2018-08-31T20:00:00
 abstract = "Many companies leverage data professionals in different business functions. Despite their popularity, these roles typically take twice as long to fill as similar jobs. In this talk, I will discuss how TapRecruit uses data to understand which 'common-sense' judgements hurt hiring teams looking for data professionals in competitive talent markets."
-event = "Taiwanese Data Professionals"
+event = "TDP Meetup NYC"
 event_url = "https://www.eventbrite.com/e/how-much-bias-is-in-your-algorithms-tickets-48681478613"
 location = "New York NY"
 
