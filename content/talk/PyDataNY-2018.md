@@ -2,11 +2,11 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets"
-time_start = 2018-10-17T10:30:00
-time_end = 2018-10-19T20:00:00
+time_start = 2018-10-18T10:50:00
+time_end = 2018-10-18T11:30:00
 abstract = "In this talk I will discuss exponential family embeddings, which are methods that extend the idea behind word embeddings to other data types. I will describe how we used dynamic embeddings to understand how data science skill-sets have transformed over the last 3 years using our large corpus of jobs. The key takeaway is that these models can enrich analysis of specialized datasets."
 event = "PyData NY"
-event_url = "https://pydata.org/nyc2018/"
+event_url = "https://pydata.org/nyc2018/schedule/presentation/18/"
 location = "New York NY"
 
 # Is this a selected talk? (true/false)
