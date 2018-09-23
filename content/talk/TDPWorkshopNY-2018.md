@@ -20,7 +20,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "post/tdp-workshop-2018"
+url_pdf = "tutorial/tdp-workshop-2018"
 url_slides = "files/tdp-workshop-2018.pdf"
 url_video = ""
 url_code = ""
