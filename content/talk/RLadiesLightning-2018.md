@@ -10,7 +10,7 @@ event_url = "http://www.rladiesnyc.org/post/lightning-talks/"
 location = "New York NY"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

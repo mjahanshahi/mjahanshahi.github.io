@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/talk/tdpworkshopny-2018/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+      <loc>/post/tdp-workshop-2018/</loc>
+      <lastmod>2018-09-19T23:06:32-04:00</lastmod>
     </url>
     
   
@@ -14,8 +14,8 @@
     
     <url>
     
-      <loc>/posts/my-first-post/</loc>
-      <lastmod>2018-06-19T11:20:19-04:00</lastmod>
+      <loc>/talk/tdpworkshopny-2018/</loc>
+      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -141,14 +141,6 @@
     
     <url>
     
-      <loc>/posts/my-first-post/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication_types/2/</loc>
       <lastmod>2016-08-05T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -160,16 +152,6 @@
     <url>
     
       <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/posts/</loc>
-      <lastmod>2018-06-19T11:20:19-04:00</lastmod>
       <priority>0</priority>
     </url>
     

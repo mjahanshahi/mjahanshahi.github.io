@@ -11,7 +11,7 @@ event_url = "https://www.facebook.com/events/2135577736715538/"
 location = "New York NY"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -20,7 +20,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://github.com/mjahanshahi/tdp_workshop-2018"
+url_pdf = "post/tdp-workshop-2018"
 url_slides = "files/tdp-workshop-2018.pdf"
 url_video = ""
 url_code = ""
