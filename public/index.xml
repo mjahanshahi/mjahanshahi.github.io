@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>How have Data Science Skill Sets Evolved? A case study using embeddings</title>
+      <link>/talk/dataengconferenceny-2018/</link>
+      <pubDate>Tue, 23 Oct 2018 19:24:43 -0400</pubDate>
+      
+      <guid>/talk/dataengconferenceny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battling Biases and Bottlenecks in Recruiting Using Data Science and Decision Science</title>
+      <link>/talk/eggconferenceny-2018/</link>
+      <pubDate>Tue, 23 Oct 2018 19:24:15 -0400</pubDate>
+      
+      <guid>/talk/eggconferenceny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TDP Workshop: Data Science your Job Search</title>
       <link>/tutorial/tdp-workshop-2018/</link>
       <pubDate>Wed, 19 Sep 2018 23:06:32 -0400</pubDate>

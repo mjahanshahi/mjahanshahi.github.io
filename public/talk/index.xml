@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Upcoming Talks on </title>
+    <title>Talks &amp; Workshops on </title>
     <link>/talk/</link>
-    <description>Recent content in Upcoming Talks on </description>
+    <description>Recent content in Talks &amp; Workshops on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,6 +11,24 @@
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How have Data Science Skill Sets Evolved? A case study using embeddings</title>
+      <link>/talk/dataengconferenceny-2018/</link>
+      <pubDate>Tue, 23 Oct 2018 19:24:43 -0400</pubDate>
+      
+      <guid>/talk/dataengconferenceny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battling Biases and Bottlenecks in Recruiting Using Data Science and Decision Science</title>
+      <link>/talk/eggconferenceny-2018/</link>
+      <pubDate>Tue, 23 Oct 2018 19:24:15 -0400</pubDate>
+      
+      <guid>/talk/eggconferenceny-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Science your Job Search</title>

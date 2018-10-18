@@ -10,7 +10,7 @@ event_url = "https://www.eventbrite.com/e/how-to-reduce-bias-in-your-hiring-proc
 location = "New York NY"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

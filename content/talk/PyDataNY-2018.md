@@ -20,7 +20,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "files/pydata-nyc-2018.pdf"
 url_video = ""
 url_code = ""
 

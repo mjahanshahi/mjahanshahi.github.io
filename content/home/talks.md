@@ -1,10 +1,10 @@
 +++
-# Recent and Upcoming Talks widget.
+# Recent Talks widget.
 widget = "talks"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Talks"
+title = "Recent Talks"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,5 +18,7 @@ count = 4
 #   1 = Detailed
 list_format = 0
 
+# Exclude talks that are shown in the Selected Talks widget?
+exclude_selected = true
 +++
 
