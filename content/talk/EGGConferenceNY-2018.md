@@ -1,7 +1,7 @@
 +++
 title = "Battling Biases and Bottlenecks in Recruiting Using Data Science and Decision Science"
-date = 2018-10-23T19:24:15-04:00  # Schedule page publish date.
-draft = true
+date = 2018-09-21T19:24:15-04:00  # Schedule page publish date.
+draft = false
 selected = true
 
 # Talk start and end times.

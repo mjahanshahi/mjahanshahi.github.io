@@ -1,68 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Maryam</title>
-    <link>https://www.maryamjahanshahi.com/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Maryam</description>
+    <title>Recent &amp; Upcoming Talks on </title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://www.maryamjahanshahi.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>TBA</title>
+      <link>/talk/aimlmeetupny-2019/</link>
+      <pubDate>Fri, 23 Nov 2018 19:24:15 -0400</pubDate>
+      
+      <guid>/talk/aimlmeetupny-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TBA</title>
+      <link>/talk/widmeetupny-2019/</link>
+      <pubDate>Fri, 23 Nov 2018 19:24:15 -0400</pubDate>
+      
+      <guid>/talk/widmeetupny-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using Data Science to Recruit Data Scientists</title>
-      <link>https://www.maryamjahanshahi.com/talk/pydatadc-2018/</link>
+      <link>/talk/pydatadc-2018/</link>
       <pubDate>Wed, 10 Oct 2018 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/pydatadc-2018/</guid>
+      <guid>/talk/pydatadc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battling Biases and Bottlenecks in Recruiting Using Data Science and Decision Science</title>
+      <link>/talk/eggconferenceny-2018/</link>
+      <pubDate>Fri, 21 Sep 2018 19:24:15 -0400</pubDate>
+      
+      <guid>/talk/eggconferenceny-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets</title>
-      <link>https://www.maryamjahanshahi.com/talk/pydatany-2018/</link>
+      <link>/talk/wiaconferenceoh-2019/</link>
+      <pubDate>Fri, 14 Sep 2018 19:25:25 -0400</pubDate>
+      
+      <guid>/talk/wiaconferenceoh-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How have Data Science Skill Sets Evolved? A case study using embeddings</title>
+      <link>/talk/dataengconferenceny-2018/</link>
+      <pubDate>Tue, 11 Sep 2018 19:24:43 -0400</pubDate>
+      
+      <guid>/talk/dataengconferenceny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets</title>
+      <link>/talk/pydatany-2018/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/pydatany-2018/</guid>
+      <guid>/talk/pydatany-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science your Job Search</title>
-      <link>https://www.maryamjahanshahi.com/talk/tdpworkshopny-2018/</link>
+      <link>/talk/tdpworkshopny-2018/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/tdpworkshopny-2018/</guid>
+      <guid>/talk/tdpworkshopny-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Data Science to Recruit Data Professionals</title>
-      <link>https://www.maryamjahanshahi.com/talk/tdpmeetupny-2018/</link>
+      <link>/talk/tdpmeetupny-2018/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/tdpmeetupny-2018/</guid>
+      <guid>/talk/tdpmeetupny-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moneyballing Recruiting: A Data-Driven Approach to Battling Bottlenecks and Biases in Hiring</title>
-      <link>https://www.maryamjahanshahi.com/talk/stratany-2018/</link>
+      <link>/talk/stratany-2018/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/stratany-2018/</guid>
+      <guid>/talk/stratany-2018/</guid>
       <description>An excellent recap of this talk is featured in Paco Nathan&amp;rsquo;s column.</description>
     </item>
     
     <item>
       <title>Using R to Analyze Recruiting Pipelines</title>
-      <link>https://www.maryamjahanshahi.com/talk/rladieslightning-2018/</link>
+      <link>/talk/rladieslightning-2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/rladieslightning-2018/</guid>
+      <guid>/talk/rladieslightning-2018/</guid>
       <description></description>
     </item>
     

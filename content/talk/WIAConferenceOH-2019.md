@@ -1,5 +1,5 @@
 +++
-date = 2018-10-23T19:25:25-04:00  # Schedule page publish date.
+date = 2018-09-14T19:25:25-04:00  # Schedule page publish date.
 title = "Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets"
 draft = true
 selected = true

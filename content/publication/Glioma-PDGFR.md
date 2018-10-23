@@ -17,8 +17,8 @@ authors = ["Hongyan Zou, Rui Feng, Yong Huang, Joseph Tripodi, Vesna Najfeld, Na
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Scientific Reports*."
-publication_short = "In *Sci Rep*."
+publication = "*Scientific Reports*"
+publication_short = "*Sci Rep*."
 
 # Abstract and optional shortened version.
 abstract = "In primary brain tumors, oncogenes are frequently amplified and maintained on extrachromosomal DNA as double minutes (DM), but the underlying mechanisms remain poorly understood. We have generated a mouse model of malignant glioma based on knock-in of a mutant PDGF receptor α (PDGFRα) that is expressed in oligodendrocyte precursor cells (OPCs) after activation by a Cre recombinase. In the tumor suppressor INK4/Arf−/− background, mutant animals frequently developed brain tumors resembling anaplastic human gliomas (WHO grade III). Besides brain tumors, most animals also developed aggressive fibrosarcomas, likely triggered by Cre activation of mutant PDGFRα in fibroblastic cell lineages. Importantly, in the brain tumors and cell lines derived from brain tumor tissues, we identified a high prevalence of DM Pdgfra gene amplification, suggesting its occurrence as an early mutational event contributing to the malignant transformation of OPCs. Amplicons extended beyond the Pdgfra locus and included in some cases neighboring genes Kit and Kdr. Our genetically defined mouse brain tumor model therefore supports OPC as a cell of origin for malignant glioma and offers an example of a defined temporal sequence of mutational events, thus providing an entry point for a mechanistic understanding of DM gene amplification and its functionality in gliomagenesis."
@@ -36,7 +36,6 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_paper = "https://www.nature.com/articles/srep08468"
 url_pdf = "https://www.nature.com/articles/srep08468.pdf"
 url_preprint = ""
 url_code = ""
@@ -47,18 +46,21 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-# Does the content use math formatting?
-math = false
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-# Does the content use source code highlighting?
-highlight = true
+# Digital Object Identifier (DOI)
+doi = "10.1038/srep08468"
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

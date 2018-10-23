@@ -17,8 +17,8 @@ authors = ["Anoj Ilanges, Maryam Jahanshahi, Denis Balobin, Cathie Pfleger"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PLoS One*"
-publication_short = "In *PLoS One*"
+publication = "*PLoS One*"
+publication_short = "*PLoS One*"
 
 # Abstract and optional shortened version.
 abstract = "Alcohol-mediated cancers represent more than 3.5% of cancer-related deaths, yet how alcohol promotes cancer is a major open question. Using Drosophila, we identified novel interactions between dietary ethanol and loss of tumor suppressor components of the Hippo Pathway. The Hippo Pathway suppresses tumors in flies and mammals by inactivating transcriptional co-activator Yorkie, and the spectrum of cancers associated with impaired Hippo signaling overlaps strikingly with those associated with alcohol. Therefore, our findings may implicate loss of Hippo Pathway tumor suppression in alcohol-mediated cancers. Ethanol enhanced overgrowth from loss of the expanded, hippo, or warts tumor suppressors but, surprisingly, not from over-expressing the yorkie oncogene. We propose that in parallel to Yorkie-dependent overgrowth, impairing Hippo signaling in the presence of alcohol may promote overgrowth via additional alcohol-relevant targets. We also identified interactions between alcohol and Hippo Pathway over-activation. We propose that exceeding certain thresholds of alcohol exposure activates Hippo signaling to maintain proper growth control and prevent alcohol-mediated mis-patterning and tissue overgrowth."
@@ -36,7 +36,6 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_paper = "http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0078880"
 url_pdf = "http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0078880&type=printable"
 url_preprint = ""
 url_code = ""
@@ -47,18 +46,22 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-# Does the content use math formatting?
-math = false
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-# Does the content use source code highlighting?
-highlight = true
+# Digital Object Identifier (DOI)
+doi = "10.1371/journal.pone.0078880.g004"
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

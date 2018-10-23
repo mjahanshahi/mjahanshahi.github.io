@@ -17,8 +17,8 @@ authors = ["Maryam Jahanshahi, Kuangfu Hsiao, Andreas Jenny, Cathie Pfleger"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PLoS Genetics*."
-publication_short = "In *PLoS Genet*."
+publication = "*PLoS Genetics*"
+publication_short = "*PLoS Genet*."
 
 # Abstract and optional shortened version.
 abstract = "Hippo signaling acts as a master regulatory pathway controlling growth, proliferation, and apoptosis and also ensures that variations in proliferation do not alter organ size. How the pathway coordinates restricting proliferation with organ size control remains a major unanswered question. Here we identify Rae1 as a highly-conserved target of the Hippo Pathway integrating proliferation and organ size. Genetic and biochemical studies in Drosophila cells and tissues and in mammalian cells indicate that Hippo signaling promotes Rae1 degradation downstream of Warts/Lats. In proliferating cells, Rae1 loss restricts cyclin B levels and organ size while Rae1 over-expression increases cyclin B levels and organ size, similar to Hippo Pathway over-activation or loss-of-function, respectively. Importantly, Rae1 regulation by the Hippo Pathway is crucial for its regulation of cyclin B and organ size; reducing Rae1 blocks cyclin B accumulation and suppresses overgrowth caused by Hippo Pathway loss. Surprisingly, in addition to suppressing overgrowth, reducing Rae1 also compromises survival of epithelial tissue overgrowing due to loss of Hippo signaling leading to a tissue “synthetic lethality” phenotype. Excitingly, Rae1 plays a highly conserved role to reduce the levels and activity of the Yki/YAP oncogene. Rae1 increases activation of the core kinases Hippo and Warts and plays a post-transcriptional role to increase the protein levels of the Merlin, Hippo, and Warts components of the pathway; therefore, in addition to Rae1 coordinating organ size regulation with proliferative control, we propose that Rae1 also acts in a feedback circuit to regulate pathway homeostasis."
@@ -38,7 +38,6 @@ selected = true
 projects = []
 
 # Links (optional).
-url_paper = "http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006198"
 url_pdf = "http://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1006198&type=printable"
 url_preprint = ""
 url_code = ""
@@ -51,20 +50,20 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
-# Does the content use math formatting?
-math = false
-
-# Does the content use source code highlighting?
-highlight = true
+# Digital Object Identifier (DOI)
+doi = "10.1371/journal.pgen.1006198"
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

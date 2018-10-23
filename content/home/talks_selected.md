@@ -10,6 +10,9 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 19
 
+# Number of talks to list.
+count = 3
+
 # List format.
 #   0 = Simple
 #   1 = Detailed
