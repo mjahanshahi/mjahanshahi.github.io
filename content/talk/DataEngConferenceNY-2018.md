@@ -1,13 +1,13 @@
 +++
 title = "How have Data Science Skill Sets Evolved? A case study using embeddings"
-date = 2018-10-23T19:24:43-04:00  # Schedule page publish date.
+date = 2018-09-11T19:24:43-04:00  # Schedule page publish date.
 draft = true
 selected = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-11-08T19:24:43-04:00
-time_end = 2018-11-09T19:24:43-04:00
+time_start = 2018-11-08T14:00:00-04:00
+time_end = 2018-11-08T14:40:00-04:00
 
 # Abstract and optional shortened version.
 abstract = "Many data scientists are familiar with word embedding models such as word2vec, which capture semantic similarity among words and phrases in a corpus. However, word embeddings are limited in their ability to interrogate a corpus alongside other context or over time.  Moreover, word embedding models either need significant amounts of data, or tuning through transfer learning of a domain-specific vocabulary that is unique to most commercial applications. In this talk, I will introduce exponential family embeddings. Developed by Rudolph and Blei, these methods extend the idea of word embeddings to other types of high-dimensional data. I will demonstrate how they can be used to conduct advanced topic modeling on datasets that are medium-sized, which are specialized enough to require significant modifications of a word2vec model and contain more general data types."
@@ -15,11 +15,10 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "DataEngConf"
-event_url = "https://www.dataengconf.com/no-bullshit-nyc-free-tickets"
+event_url = "https://www.dataengconf.com/speaker/using-embeddings-to-understand-the-evolution-of-data-science-skill-sets?hsLang=en-us"
 
 # Location of event.
 location = "New York, NY"
-
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -45,9 +44,13 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
 +++

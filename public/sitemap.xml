@@ -2,15 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-    
     <url>
     
-      <loc>/talk/dataengconferenceny-2018/</loc>
-      <lastmod>2018-10-23T19:24:43-04:00</lastmod>
+      <loc>/drafts/aimlmeetupny-2019/</loc>
+      <lastmod>2018-11-23T19:24:15-04:00</lastmod>
     </url>
     
   
     
+    <url>
+    
+      <loc>/drafts/widmeetupny-2019/</loc>
+      <lastmod>2018-11-23T19:24:15-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/drafts/wiaconferenceoh-2019/</loc>
+      <lastmod>2018-10-23T19:25:25-04:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
@@ -20,6 +34,13 @@
     
   
     
+    <url>
+    
+      <loc>/talk/pydatadc-2018/</loc>
+      <lastmod>2018-10-10T10:49:43-04:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
@@ -29,51 +50,61 @@
     
   
     
+    <url>
+    
+      <loc>/talk/dataengconferenceny-2018/</loc>
+      <lastmod>2018-09-11T19:24:43-04:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
       <loc>/tutorial/</loc>
-      <lastmod>2018-09-19T00:00:00-04:00</lastmod>
+      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
   
     
+    <url>
+    
+      <loc>/talk/pydatany-2018/</loc>
+      <lastmod>2018-09-03T00:00:00-04:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
       <loc>/talk/tdpworkshopny-2018/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2018-08-30T00:00:00-04:00</lastmod>
     </url>
     
   
-    
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/talk/tdpmeetupny-2018/</loc>
+      <lastmod>2018-08-30T00:00:00-04:00</lastmod>
     </url>
     
   
     
+    <url>
+    
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
       <loc>/talk/stratany-2018/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-29T00:00:00-04:00</lastmod>
     </url>
     
   
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
     
     <url>
     
@@ -83,7 +114,6 @@
     
   
     
-    
     <url>
     
       <loc>/talk/</loc>
@@ -91,25 +121,6 @@
     </url>
     
   
-    
-    
-    <url>
-    
-      <loc>/talk/tdpmeetupny-2018/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/pydatany-2018/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
     
     <url>
     
@@ -119,7 +130,6 @@
     
   
     
-    
     <url>
     
       <loc>/publication/hippo-rae1/</loc>
@@ -127,7 +137,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -137,7 +146,6 @@
     
   
     
-    
     <url>
     
       <loc>/publication/hippo-alcohol/</loc>
@@ -146,7 +154,6 @@
     
   
     
-    
     <url>
     
       <loc>/publication/rabex5-ras/</loc>
@@ -154,17 +161,6 @@
     </url>
     
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
     
     <url>
     
@@ -175,7 +171,6 @@
     
   
     
-    
     <url>
     
       <loc>/categories/</loc>
@@ -184,6 +179,23 @@
     
   
     
+    <url>
+    
+      <loc>/drafts/</loc>
+      <lastmod>2018-11-23T19:24:15-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
@@ -194,11 +206,9 @@
     
   
     
-    
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

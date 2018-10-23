@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Maryam on Maryam</title>
     <link>/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Maryam on Maryam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>How have Data Science Skill Sets Evolved? A case study using embeddings</title>
-      <link>/talk/dataengconferenceny-2018/</link>
-      <pubDate>Tue, 23 Oct 2018 19:24:43 -0400</pubDate>
+      <title>TBA</title>
+      <link>/drafts/aimlmeetupny-2019/</link>
+      <pubDate>Fri, 23 Nov 2018 19:24:15 -0400</pubDate>
       
-      <guid>/talk/dataengconferenceny-2018/</guid>
+      <guid>/drafts/aimlmeetupny-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TBA</title>
+      <link>/drafts/widmeetupny-2019/</link>
+      <pubDate>Fri, 23 Nov 2018 19:24:15 -0400</pubDate>
+      
+      <guid>/drafts/widmeetupny-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets</title>
+      <link>/drafts/wiaconferenceoh-2019/</link>
+      <pubDate>Tue, 23 Oct 2018 19:25:25 -0400</pubDate>
+      
+      <guid>/drafts/wiaconferenceoh-2019/</guid>
       <description></description>
     </item>
     
@@ -25,6 +43,15 @@
       <pubDate>Tue, 23 Oct 2018 19:24:15 -0400</pubDate>
       
       <guid>/talk/eggconferenceny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Data Science to Recruit Data Scientists</title>
+      <link>/talk/pydatadc-2018/</link>
+      <pubDate>Wed, 10 Oct 2018 10:49:43 -0400</pubDate>
+      
+      <guid>/talk/pydatadc-2018/</guid>
       <description></description>
     </item>
     
@@ -206,39 +233,59 @@
     </item>
     
     <item>
-      <title>Data Science your Job Search</title>
-      <link>/talk/tdpworkshopny-2018/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      <title>How have Data Science Skill Sets Evolved? A case study using embeddings</title>
+      <link>/talk/dataengconferenceny-2018/</link>
+      <pubDate>Tue, 11 Sep 2018 19:24:43 -0400</pubDate>
       
-      <guid>/talk/tdpworkshopny-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moneyballing Recruiting: A Data-Driven Approach to Battling Bottlenecks and Biases in Hiring</title>
-      <link>/talk/stratany-2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/stratany-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Data Science to Recruit Data Professionals</title>
-      <link>/talk/tdpmeetupny-2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/tdpmeetupny-2018/</guid>
+      <guid>/talk/dataengconferenceny-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets</title>
       <link>/talk/pydatany-2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/talk/pydatany-2018/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science your Job Search</title>
+      <link>/talk/tdpworkshopny-2018/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/tdpworkshopny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Data Science to Recruit Data Professionals</title>
+      <link>/talk/tdpmeetupny-2018/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/tdpmeetupny-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moneyballing Recruiting: A Data-Driven Approach to Battling Bottlenecks and Biases in Hiring</title>
+      <link>/talk/stratany-2018/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/stratany-2018/</guid>
+      <description>&lt;p&gt;An excellent recap of this talk is featured in &lt;a href=&#34;https://blog.dominodatalab.com/themes-and-conferences-per-pacoid-episode-2/#Data&#34; target=&#34;_blank&#34;&gt;Paco Nathan&amp;rsquo;s column&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -266,26 +313,6 @@
       <pubDate>Mon, 16 Feb 2015 00:00:00 -0500</pubDate>
       
       <guid>/publication/glioma-pdgfr/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alcohol Interacts with Genetic Alteration of the Hippo Tumor Suppressor Pathway to Modulate Tissue Growth in Drosophila</title>
-      <link>/publication/hippo-alcohol/</link>
-      <pubDate>Mon, 21 Oct 2013 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/hippo-alcohol/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rabex-5 Ubiquitin Ligase Activity Restricts Ras Signaling to Establish Pathway Homeostasis in Drosophila</title>
-      <link>/publication/rabex5-ras/</link>
-      <pubDate>Tue, 10 Aug 2010 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/rabex5-ras/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

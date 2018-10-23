@@ -15,14 +15,6 @@ weight = 5
   "Behavioral Economics",
   "Social Psychology"
   ]
-  
-# List your affiliations.
-#[affiliations]
-#  affiliations = [
-#  "NASA Datanaut",
-#  "R-Ladies NYC",
-#  "WiMLDS NYC"
-#  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]

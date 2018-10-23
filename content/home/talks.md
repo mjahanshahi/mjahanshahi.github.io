@@ -11,11 +11,12 @@ subtitle = ""
 weight = 20
 
 # Number of talks to list.
-count = 4
+count = 3
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
+#   2 = Stream
 list_format = 0
 
 # Exclude talks that are shown in the Selected Talks widget?

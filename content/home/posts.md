@@ -18,11 +18,12 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 3
+count = 5
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 1
+#   2 = Stream
+list_format = 2
 +++
 
