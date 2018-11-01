@@ -34,6 +34,8 @@ weight = 5
   
 +++
 
-# Biography
+# About Me
 
-Maryam is a research scientist at TapRecruit, a platform that uses AI and automation tools to bring efficiency and fairness to the recruiting process. Her graduate studies were focussed on characterizing molecular regulators of organ size control. Maryam’s long-term research goal is to reduce bias in decision-making by using a combination of computational linguistics, machine learning and behavioral economics methods.
+My name is Maryam Jahanshahi and I'm a research scientist at [TapRecruit](https://www.taprecruit.co), a software company that uses AI and automation tools to bring efficiency and fairness to the recruiting process. The goal of my research program is to find ways to reduce bias in decision-making by using insights from different disciplines including computational linguistics, machine learning and behavioral science. 
+
+I previously worked as a research scientist at the interface between cancer and developmental biology. I characterized molecular regulators of organ size control as part of my graduate research.
