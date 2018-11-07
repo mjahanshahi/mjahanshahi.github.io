@@ -24,7 +24,7 @@ selected = false
 # Links (optional).
 url_pdf = "https://www.maryamjahanshahi.com/tutorial/tdp-workshop-2018.md"
 url_slides = "files/tdp-workshop-2018.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=Lj7nDgQWK9o"
 url_code = ""
 
 # Projects (optional).

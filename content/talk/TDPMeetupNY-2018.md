@@ -28,7 +28,7 @@ selected = false
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://twdatany.blogspot.com"
+url_video = "https://www.youtube.com/watch?v=ha7nbdDSRYE"
 url_code = ""
 
 # Projects (optional).
