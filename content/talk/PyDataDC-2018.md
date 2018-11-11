@@ -1,6 +1,8 @@
 +++
 date = 2018-10-10T10:49:43-04:00 # Schedule page publish date.
 title = "Using Data Science to Recruit Data Scientists"
+draft = false
+selected = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
