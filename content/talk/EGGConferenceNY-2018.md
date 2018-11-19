@@ -2,7 +2,7 @@
 title = "Battling Biases and Bottlenecks in Recruiting Using Data Science and Decision Science"
 date = 2018-09-21T19:24:15-04:00  # Schedule page publish date.
 draft = false
-selected = true
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
