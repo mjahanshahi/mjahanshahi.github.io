@@ -33,7 +33,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "" #files/egg-nyc-2018.pdf
+url_slides = "files/egg-nyc-2018.pdf"
 url_video = ""
 url_code = ""
 
