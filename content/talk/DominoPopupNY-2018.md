@@ -1,6 +1,6 @@
 +++
 date = 2018-11-15T10:49:43-04:00 # Schedule page publish date.
-title = "Extracting Meaning from Text with Exponential Family Embeddings"
+title = "Applying Exponential Family Embeddings in Natural Language Processing to Analyze Text"
 draft = false
 selected = true
 
