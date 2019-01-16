@@ -27,7 +27,7 @@ categories = []
 # Links (optional).
 url_pdf = ""
 url_slides = "files/pydata-dc-2018.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=d0avxorqzi8"
 url_code = ""
 
 # Featured image
