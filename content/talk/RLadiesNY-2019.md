@@ -2,7 +2,7 @@
 date = 2018-12-10T10:49:43-04:00 # Schedule page publish date.
 title = "Building Robust Text Processing Pipelines"
 draft = false
-selected = false
+selected = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
