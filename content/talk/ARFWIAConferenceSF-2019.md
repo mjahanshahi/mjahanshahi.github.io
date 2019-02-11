@@ -2,7 +2,7 @@
 title = "Using AI to bridge gaps and mitigate biases in recruiting"
 date = 2018-12-20T19:24:15-04:00  # Schedule page publish date.
 draft = false
-selected = true
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
