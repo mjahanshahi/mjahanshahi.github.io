@@ -34,7 +34,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "files/egg-nyc-2018.pdf"
-url_video = ""
+url_video = "https://www.datacouncil.ai/speaker/using-embeddings-to-understand-the-evolution-of-data-science-skill-sets"
 url_code = ""
 
 # Featured image
