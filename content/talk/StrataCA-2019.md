@@ -1,5 +1,5 @@
 +++
-date = 2019-10-10T10:49:43-04:00 # Schedule page publish date.
+date = 2019-01-01T10:49:43-04:00 # Schedule page publish date.
 title = "Shortcuts that shortcircuit talent pipelines: Data-driven optimization of hiring"
 draft = false
 selected = true
