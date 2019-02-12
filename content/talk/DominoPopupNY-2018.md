@@ -36,8 +36,8 @@ categories = []
   
 # Links (optional).
 url_pdf = ""
-url_slides = "" #"files/domino-nyc-2018.pdf"
-url_video = "https://dominodatalab.wistia.com/medias/4u90fsg80b"
+url_slides = "files/domino-nyc-2018.pdf"
+url_video = "" #"https://dominodatalab.wistia.com/medias/4u90fsg80b"
 url_code = ""
 
 +++
