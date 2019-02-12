@@ -13,11 +13,11 @@ time_end = 2018-03-27T12:30:00
 abstract = "Hiring teams largely rely on both intuition and experience to scout talent for data science and data engineering roles. Drawing on results from analyzing over 15 million jobs and their outcomes, Maryam Jahanshahi interrogates these “common sense” judgements to determine whether they help or hurt hiring of data scientists and engineers."
 
 # Name of event and optional event URL.
-event = "Strata CA"
+event = "Strata Data Conference"
 event_url = "https://conferences.oreilly.com/strata/strata-ca"
 
 # Location of event.
-location = "San Francisco"
+location = "San Francisco CA"
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
