@@ -2,6 +2,7 @@
 date = 2018-09-03T00:00:00  # Schedule page publish date.
 title = "Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets"
 draft = false
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -18,13 +19,11 @@ event_url = "https://pydata.org/nyc2018/schedule/presentation/18/"
 # Location of event.
 location = "New York NY"
 
-# Is this a selected talk? (true/false)
-selected = false
 
 # Links (optional).
 url_pdf = ""
 url_slides = "files/pydata-nyc-2018.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=lxtSHUa2FyA"
 url_code = ""
 
 # Projects (optional).
