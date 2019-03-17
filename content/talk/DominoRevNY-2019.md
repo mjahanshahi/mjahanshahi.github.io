@@ -1,7 +1,7 @@
 +++
 date = 2018-12-10T10:49:43-04:00 # Schedule page publish date.
 title = "Applying Exponential Family Embeddings in Natural Language Processing to Analyze Text"
-draft = false
+draft = true
 selected = true
 
 # Talk start and end times.
