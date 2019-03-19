@@ -24,6 +24,14 @@ location = "New York NY"
 tags = []
 categories = []
 
+  
+# Links (optional).
+url_pdf = ""
+url_slides = "files/rladies-nyc-2019.pdf"
+url_video = ""
+url_code = ""
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
@@ -33,11 +41,4 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Left"
-  
-# Links (optional).
-url_pdf = ""
-url_slides = "files/rladies-nyc-2019.pdf"
-url_video = ""
-url_code = ""
-
 +++
