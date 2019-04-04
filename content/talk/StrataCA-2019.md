@@ -2,7 +2,7 @@
 date = 2019-01-01T10:49:43-04:00 # Schedule page publish date.
 title = "Shortcuts that shortcircuit talent pipelines: Data-driven optimization of hiring"
 draft = false
-selected = true
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

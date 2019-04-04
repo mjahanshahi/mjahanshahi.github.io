@@ -2,7 +2,7 @@
 date = 2018-09-14T19:25:25-04:00  # Schedule page publish date.
 title = "Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets"
 draft = false
-selected = true
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
