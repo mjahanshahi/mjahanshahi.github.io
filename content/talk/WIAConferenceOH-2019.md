@@ -34,7 +34,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "files/wia-oh-2019.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=NRyaXhEjbBk"
 url_code = ""
 
 
