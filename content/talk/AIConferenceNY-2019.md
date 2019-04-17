@@ -36,7 +36,7 @@ categories = []
   
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "files/ai-ny-2019.pdf"
 url_video = ""
 url_code = ""
 
