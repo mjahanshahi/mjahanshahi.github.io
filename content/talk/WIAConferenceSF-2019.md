@@ -2,7 +2,7 @@
 title = "Using AI to Bring Fairness and Efficiency to Recruiting"
 date = 2019-01-29T12:00:00-04:00  # Schedule page publish date.
 draft = false
-selected = true
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
