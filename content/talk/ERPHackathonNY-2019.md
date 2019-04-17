@@ -1,7 +1,7 @@
 +++
 date = 2018-02-06T10:49:43-04:00 # Schedule page publish date.
 title = "Using Text Analysis And Data Modeling To Understand Big Data"
-draft = true
+draft = false
 selected = true
 
 # Talk start and end times.
