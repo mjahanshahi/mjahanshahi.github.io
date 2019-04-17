@@ -34,7 +34,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "files/talks/wiac-sf-2019.pdf"
+url_slides = "files/wiac-sf-2019.pdf"
 url_video = ""
 url_code = ""
 
