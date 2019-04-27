@@ -2,7 +2,7 @@
 date = 2018-11-14T10:49:43-04:00 # Schedule page publish date.
 title = "Beyond Word2Vec: Using embeddings to chart out the ebb and flow of tech skills"
 draft = false
-selected = true
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
