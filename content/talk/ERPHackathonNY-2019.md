@@ -2,7 +2,7 @@
 date = 2018-02-06T10:49:43-04:00 # Schedule page publish date.
 title = "Using Text Analysis And Data Modeling To Understand Big Data"
 draft = false
-selected = true
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,19 +24,9 @@ location = "New York NY"
 tags = []
 categories = []
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
-  
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "files/erp-hackathon-2019.pdf"
 url_video = ""
 url_code = ""
 
