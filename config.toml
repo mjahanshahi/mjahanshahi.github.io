@@ -200,6 +200,10 @@ enableGitInfo = false
   [params.talks]
     # Show talk time?
     time = false
+    
+  [params.podcasts]
+    # Show talk time?
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -225,6 +229,8 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = Stream
     talk_format = 0
+    
+    podcast_format = 0
 
   # Social/Academic Networking
   #
@@ -243,7 +249,7 @@ enableGitInfo = false
   #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
-[[params.social]]
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
     link = "mailto:maryam@taprecruit.co"
@@ -302,11 +308,16 @@ enableGitInfo = false
   name = "Talks"
   url = "#talks"
   weight = 2
+
+[[menu.main]]
+  name = "Podcasts"
+  url = "#podcasts"
+  weight = 3
   
 [[menu.main]]
   name = "Papers"
   url = "#publications"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
