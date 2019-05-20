@@ -9,7 +9,7 @@ title = "Papers"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 50
 
 # Number of publications to list.
 count = 3
