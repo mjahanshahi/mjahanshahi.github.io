@@ -26,7 +26,7 @@ categories = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "files/rev2-2019.pdf"
 url_video = ""
 url_code = ""
 
