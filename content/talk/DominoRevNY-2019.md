@@ -27,7 +27,7 @@ categories = []
 # Links (optional).
 url_pdf = ""
 url_slides = "files/rev2-2019.pdf"
-url_video = ""
+url_video = "https://dominodatalab.wistia.com/medias/zd4guy9whk"
 url_code = ""
 
 +++
