@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/</loc>
-      <lastmod>2020-05-11T19:24:43-04:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2020-07-01T10:00:00-01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -12,7 +12,15 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/reframeworkny-2020/</loc>
+      <loc>/talk/no-upcoming-talks-currently-scheduled/</loc>
+      <lastmod>2020-07-01T10:00:00-01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/reframeworkny-2020/</loc>
       <lastmod>2020-05-11T19:24:43-04:00</lastmod>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/uxdatany-2020/</loc>
+      <loc>/talk/yowdataonline-2020/</loc>
       <lastmod>2020-05-11T19:24:43-04:00</lastmod>
     </url>
     
@@ -28,16 +36,16 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/yowdataonline-2020/</loc>
-      <lastmod>2020-05-11T19:24:43-04:00</lastmod>
+      <loc>/podcast/insideanalysis-2019/</loc>
+      <lastmod>2019-06-18T10:49:43-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/podcast/</loc>
-      <lastmod>2019-06-18T09:00:00-04:00</lastmod>
+      <loc>/podcast/</loc>
+      <lastmod>2019-06-18T10:49:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -45,7 +53,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/podcast/daph-2019/</loc>
+      <loc>/podcast/daph-2019/</loc>
       <lastmod>2019-06-18T09:00:00-04:00</lastmod>
     </url>
     
@@ -53,7 +61,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/podcast/oreillydatashow-2019/</loc>
+      <loc>/podcast/oreillydatashow-2019/</loc>
       <lastmod>2019-01-31T10:49:43-04:00</lastmod>
     </url>
     
@@ -61,7 +69,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/wiaconferencesf-2019/</loc>
+      <loc>/talk/wiaconferencesf-2019/</loc>
       <lastmod>2019-01-29T12:00:00-04:00</lastmod>
     </url>
     
@@ -69,7 +77,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/strataca-2019/</loc>
+      <loc>/talk/strataca-2019/</loc>
       <lastmod>2019-01-01T10:49:43-04:00</lastmod>
     </url>
     
@@ -77,7 +85,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/arfwiaconferencesf-2019/</loc>
+      <loc>/talk/arfwiaconferencesf-2019/</loc>
       <lastmod>2018-12-20T19:24:15-04:00</lastmod>
     </url>
     
@@ -85,7 +93,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/dominorevny-2019/</loc>
+      <loc>/talk/dominorevny-2019/</loc>
       <lastmod>2018-12-10T10:49:43-04:00</lastmod>
     </url>
     
@@ -93,7 +101,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/rladiesny-2019/</loc>
+      <loc>/talk/rladiesny-2019/</loc>
       <lastmod>2018-12-10T10:49:43-04:00</lastmod>
     </url>
     
@@ -101,7 +109,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/strataeu-2019/</loc>
+      <loc>/talk/strataeu-2019/</loc>
       <lastmod>2018-12-10T10:49:43-04:00</lastmod>
     </url>
     
@@ -109,7 +117,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/dominopopupny-2018/</loc>
+      <loc>/talk/dominopopupny-2018/</loc>
       <lastmod>2018-11-15T10:49:43-04:00</lastmod>
     </url>
     
@@ -117,7 +125,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/aiconferenceny-2019/</loc>
+      <loc>/talk/aiconferenceny-2019/</loc>
       <lastmod>2018-11-14T10:49:43-04:00</lastmod>
     </url>
     
@@ -125,7 +133,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/pydatadc-2018/</loc>
+      <loc>/talk/pydatadc-2018/</loc>
       <lastmod>2018-10-10T10:49:43-04:00</lastmod>
     </url>
     
@@ -133,7 +141,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/eggconferenceny-2018/</loc>
+      <loc>/talk/eggconferenceny-2018/</loc>
       <lastmod>2018-09-21T19:24:15-04:00</lastmod>
     </url>
     
@@ -141,7 +149,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/tutorial/tdp-workshop-2018/</loc>
+      <loc>/tutorial/tdp-workshop-2018/</loc>
       <lastmod>2018-09-19T23:06:32-04:00</lastmod>
     </url>
     
@@ -149,7 +157,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/wiaconferenceoh-2019/</loc>
+      <loc>/talk/wiaconferenceoh-2019/</loc>
       <lastmod>2018-09-14T19:25:25-04:00</lastmod>
     </url>
     
@@ -157,7 +165,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/dataengconferenceny-2018/</loc>
+      <loc>/talk/dataengconferenceny-2018/</loc>
       <lastmod>2018-09-11T19:24:43-04:00</lastmod>
     </url>
     
@@ -165,7 +173,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/tutorial/</loc>
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -173,7 +181,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/pydatany-2018/</loc>
+      <loc>/talk/pydatany-2018/</loc>
       <lastmod>2018-09-03T00:00:00-04:00</lastmod>
     </url>
     
@@ -181,7 +189,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/tdpworkshopny-2018/</loc>
+      <loc>/talk/tdpworkshopny-2018/</loc>
       <lastmod>2018-08-30T00:00:00-04:00</lastmod>
     </url>
     
@@ -189,7 +197,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/tdpmeetupny-2018/</loc>
+      <loc>/talk/tdpmeetupny-2018/</loc>
       <lastmod>2018-08-30T00:00:00-04:00</lastmod>
     </url>
     
@@ -197,7 +205,15 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/stratany-2018/</loc>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/stratany-2018/</loc>
       <lastmod>2018-04-29T00:00:00-04:00</lastmod>
     </url>
     
@@ -205,7 +221,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/erphackathonny-2019/</loc>
+      <loc>/talk/erphackathonny-2019/</loc>
       <lastmod>2018-02-06T10:49:43-04:00</lastmod>
     </url>
     
@@ -213,7 +229,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -221,7 +237,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -229,7 +245,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/talk/rladieslightning-2018/</loc>
+      <loc>/talk/rladieslightning-2018/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -237,7 +253,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/publication_types/2/</loc>
+      <loc>/publication_types/2/</loc>
       <lastmod>2016-08-05T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -246,7 +262,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2016-08-05T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -255,7 +271,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/publication/hippo-rae1/</loc>
+      <loc>/publication/hippo-rae1/</loc>
       <lastmod>2016-08-05T00:00:00-04:00</lastmod>
     </url>
     
@@ -263,7 +279,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/publication/glioma-pdgfr/</loc>
+      <loc>/publication/glioma-pdgfr/</loc>
       <lastmod>2015-02-16T00:00:00-05:00</lastmod>
     </url>
     
@@ -271,7 +287,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/publication/hippo-alcohol/</loc>
+      <loc>/publication/hippo-alcohol/</loc>
       <lastmod>2013-10-21T00:00:00-04:00</lastmod>
     </url>
     
@@ -279,7 +295,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/publication/rabex5-ras/</loc>
+      <loc>/publication/rabex5-ras/</loc>
       <lastmod>2010-08-10T00:00:00-04:00</lastmod>
     </url>
     
@@ -287,7 +303,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -295,7 +311,7 @@
     
     <url>
     
-      <loc>https://www.maryamjahanshahi.com/tags/</loc>
+      <loc>/tags/</loc>
       <priority>0</priority>
     </url>
     

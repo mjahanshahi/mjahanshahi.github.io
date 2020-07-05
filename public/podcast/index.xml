@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcasts on </title>
-    <link>https://www.maryamjahanshahi.com/podcast/</link>
+    <link>/podcast/</link>
     <description>Recent content in Podcasts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 10:49:43 -0400</lastBuildDate>
     
-	<atom:link href="https://www.maryamjahanshahi.com/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>/podcast/insideanalysis-2019/</link>
+      <pubDate>Tue, 18 Jun 2019 10:49:43 -0400</pubDate>
+      
+      <guid>/podcast/insideanalysis-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What’s in a Job Title? Maybe the Data Shows!</title>
-      <link>https://www.maryamjahanshahi.com/podcast/daph-2019/</link>
+      <link>/podcast/daph-2019/</link>
       <pubDate>Tue, 18 Jun 2019 09:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/podcast/daph-2019/</guid>
+      <guid>/podcast/daph-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Machine Learning and Analytics to Attract and Retain Employees</title>
-      <link>https://www.maryamjahanshahi.com/podcast/oreillydatashow-2019/</link>
+      <link>/podcast/oreillydatashow-2019/</link>
       <pubDate>Thu, 31 Jan 2019 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/podcast/oreillydatashow-2019/</guid>
+      <guid>/podcast/oreillydatashow-2019/</guid>
       <description></description>
     </item>
     

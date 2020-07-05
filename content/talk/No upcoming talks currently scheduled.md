@@ -1,8 +1,8 @@
 +++
-date = 2022-12-10T10:49:43-04:00 # Schedule page publish date.
+date = 2020-07-01T10:00:00-01:00 # Schedule page publish date.
 title = "No upcoming talks currently scheduled!"
-draft = true
-selected = false
+draft = false
+selected = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

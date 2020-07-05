@@ -1,146 +1,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.maryamjahanshahi.com/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 11 May 2020 19:24:43 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 10:00:00 -0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Algorithmic Responsibility in HR and Recruiting</title>
-      <link>https://www.maryamjahanshahi.com/talk/reframeworkny-2020/</link>
-      <pubDate>Mon, 11 May 2020 19:24:43 -0400</pubDate>
+      <title>No upcoming talks currently scheduled!</title>
+      <link>/talk/no-upcoming-talks-currently-scheduled/</link>
+      <pubDate>Wed, 01 Jul 2020 10:00:00 -0100</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/reframeworkny-2020/</guid>
+      <guid>/talk/no-upcoming-talks-currently-scheduled/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Applying Data Science to Job Ads to Understand the Present and Future of Work</title>
-      <link>https://www.maryamjahanshahi.com/talk/uxdatany-2020/</link>
+      <title>Algorithmic Responsibility in HR and Recruiting</title>
+      <link>/talk/reframeworkny-2020/</link>
       <pubDate>Mon, 11 May 2020 19:24:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/uxdatany-2020/</guid>
+      <guid>/talk/reframeworkny-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Dynamic Embeddings in Natural Language Processing to track the Evolution of Tech Skills</title>
-      <link>https://www.maryamjahanshahi.com/talk/yowdataonline-2020/</link>
+      <link>/talk/yowdataonline-2020/</link>
       <pubDate>Mon, 11 May 2020 19:24:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/yowdataonline-2020/</guid>
+      <guid>/talk/yowdataonline-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/podcast/insideanalysis-2019/</link>
+      <pubDate>Tue, 18 Jun 2019 10:49:43 -0400</pubDate>
+      
+      <guid>/podcast/insideanalysis-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What’s in a Job Title? Maybe the Data Shows!</title>
-      <link>https://www.maryamjahanshahi.com/podcast/daph-2019/</link>
+      <link>/podcast/daph-2019/</link>
       <pubDate>Tue, 18 Jun 2019 09:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/podcast/daph-2019/</guid>
+      <guid>/podcast/daph-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Machine Learning and Analytics to Attract and Retain Employees</title>
-      <link>https://www.maryamjahanshahi.com/podcast/oreillydatashow-2019/</link>
+      <link>/podcast/oreillydatashow-2019/</link>
       <pubDate>Thu, 31 Jan 2019 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/podcast/oreillydatashow-2019/</guid>
+      <guid>/podcast/oreillydatashow-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using AI to Bring Fairness and Efficiency to Recruiting</title>
-      <link>https://www.maryamjahanshahi.com/talk/wiaconferencesf-2019/</link>
+      <link>/talk/wiaconferencesf-2019/</link>
       <pubDate>Tue, 29 Jan 2019 12:00:00 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/wiaconferencesf-2019/</guid>
+      <guid>/talk/wiaconferencesf-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcuts that shortcircuit talent pipelines: Data-driven optimization of hiring</title>
-      <link>https://www.maryamjahanshahi.com/talk/strataca-2019/</link>
+      <link>/talk/strataca-2019/</link>
       <pubDate>Tue, 01 Jan 2019 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/strataca-2019/</guid>
+      <guid>/talk/strataca-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using AI to bridge gaps and mitigate biases in recruiting</title>
-      <link>https://www.maryamjahanshahi.com/talk/arfwiaconferencesf-2019/</link>
+      <link>/talk/arfwiaconferencesf-2019/</link>
       <pubDate>Thu, 20 Dec 2018 19:24:15 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/arfwiaconferencesf-2019/</guid>
+      <guid>/talk/arfwiaconferencesf-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Exponential Family Embeddings in Natural Language Processing to Analyze Text</title>
-      <link>https://www.maryamjahanshahi.com/talk/dominorevny-2019/</link>
+      <link>/talk/dominorevny-2019/</link>
       <pubDate>Mon, 10 Dec 2018 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/dominorevny-2019/</guid>
+      <guid>/talk/dominorevny-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building Robust Text Processing Pipelines</title>
-      <link>https://www.maryamjahanshahi.com/talk/rladiesny-2019/</link>
+      <link>/talk/rladiesny-2019/</link>
       <pubDate>Mon, 10 Dec 2018 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/rladiesny-2019/</guid>
+      <guid>/talk/rladiesny-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The evolution of data science skill sets: An analysis using exponential family embeddings</title>
-      <link>https://www.maryamjahanshahi.com/talk/strataeu-2019/</link>
+      <link>/talk/strataeu-2019/</link>
       <pubDate>Mon, 10 Dec 2018 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/strataeu-2019/</guid>
+      <guid>/talk/strataeu-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Exponential Family Embeddings in Natural Language Processing to Analyze Text</title>
-      <link>https://www.maryamjahanshahi.com/talk/dominopopupny-2018/</link>
+      <link>/talk/dominopopupny-2018/</link>
       <pubDate>Thu, 15 Nov 2018 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/dominopopupny-2018/</guid>
+      <guid>/talk/dominopopupny-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond Word2Vec: Using embeddings to chart out the ebb and flow of tech skills</title>
-      <link>https://www.maryamjahanshahi.com/talk/aiconferenceny-2019/</link>
+      <link>/talk/aiconferenceny-2019/</link>
       <pubDate>Wed, 14 Nov 2018 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/aiconferenceny-2019/</guid>
+      <guid>/talk/aiconferenceny-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Data Science to Recruit Data Scientists</title>
-      <link>https://www.maryamjahanshahi.com/talk/pydatadc-2018/</link>
+      <link>/talk/pydatadc-2018/</link>
       <pubDate>Wed, 10 Oct 2018 10:49:43 -0400</pubDate>
       
-      <guid>https://www.maryamjahanshahi.com/talk/pydatadc-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Battling Biases and Bottlenecks in Recruiting Using Data Science and Decision Science</title>
-      <link>https://www.maryamjahanshahi.com/talk/eggconferenceny-2018/</link>
-      <pubDate>Fri, 21 Sep 2018 19:24:15 -0400</pubDate>
-      
-      <guid>https://www.maryamjahanshahi.com/talk/eggconferenceny-2018/</guid>
+      <guid>/talk/pydatadc-2018/</guid>
       <description></description>
     </item>
     
