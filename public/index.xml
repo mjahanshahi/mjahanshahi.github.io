@@ -19,6 +19,24 @@
     </item>
     
     <item>
+      <title>Applying Data Science to Job Ads to Understand the Present and Future of Work</title>
+      <link>https://www.maryamjahanshahi.com/talk/uxdatany-2020/</link>
+      <pubDate>Mon, 11 May 2020 19:24:43 -0400</pubDate>
+      
+      <guid>https://www.maryamjahanshahi.com/talk/uxdatany-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Dynamic Embeddings in Natural Language Processing to track the Evolution of Tech Skills</title>
+      <link>https://www.maryamjahanshahi.com/talk/yowdataonline-2020/</link>
+      <pubDate>Mon, 11 May 2020 19:24:43 -0400</pubDate>
+      
+      <guid>https://www.maryamjahanshahi.com/talk/yowdataonline-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What’s in a Job Title? Maybe the Data Shows!</title>
       <link>https://www.maryamjahanshahi.com/podcast/daph-2019/</link>
       <pubDate>Tue, 18 Jun 2019 09:00:00 -0400</pubDate>
@@ -123,192 +141,6 @@
       <pubDate>Fri, 21 Sep 2018 19:24:15 -0400</pubDate>
       
       <guid>https://www.maryamjahanshahi.com/talk/eggconferenceny-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TDP Workshop: Data Science your Job Search</title>
-      <link>https://www.maryamjahanshahi.com/tutorial/tdp-workshop-2018/</link>
-      <pubDate>Wed, 19 Sep 2018 23:06:32 -0400</pubDate>
-      
-      <guid>https://www.maryamjahanshahi.com/tutorial/tdp-workshop-2018/</guid>
-      <description>
-
-&lt;h2 id=&#34;skills-assessment&#34;&gt;Skills assessment&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Metric definition&lt;/li&gt;
-&lt;li&gt;Building dashboards&lt;/li&gt;
-&lt;li&gt;Descriptive statistics &amp;amp; forecasting&lt;/li&gt;
-&lt;li&gt;Experiment design &amp;amp; analysis&lt;/li&gt;
-&lt;li&gt;Data modeling&lt;/li&gt;
-&lt;li&gt;Statistical modeling &amp;amp; inference&lt;/li&gt;
-&lt;li&gt;Machine learning&lt;/li&gt;
-&lt;li&gt;Algorithmic optimization&lt;/li&gt;
-&lt;li&gt;Data engineering&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;other-skills-assessment-frameworks&#34;&gt;Other skills assessment frameworks&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://towardsdatascience.com/a-framework-for-evaluating-data-scientist-competency-89b5f275a6bf&#34; target=&#34;_blank&#34;&gt;Schaun Wheeler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://machinelearningmastery.com/data-science-skills-simple-method-can-use-evaluate-use-results-build-amazing-data-science-teams/&#34; target=&#34;_blank&#34;&gt;Jason Brownlee&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;flavors-of-data-analyst-and-data-scientist-roles&#34;&gt;Flavors of Data Analyst and Data Scientist Roles&lt;/h2&gt;
-
-&lt;h3 id=&#34;conventional-roles&#34;&gt;Conventional roles&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Categorization&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Job Titles&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Business-focussed&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Data Analyst, Business Analyst, BI Analyst, Product Analyst&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Modeling-focussed&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Data Scientist, Quantitative Analyst, Product Data Scientist, Research Scientist&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Production-focussed&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Data Engineer, ML Engineer, Software Engineer, Infrastructure Engineer, Data Platform Developer, BI Developer&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;data-roles-by-functional-areas&#34;&gt;Data roles by functional areas&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Categorization&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Job Titles&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Reporting&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Reporting Analyst, Business Intelligence Analyst, Growth Analyst, Operations Research Analyst&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Finance&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Finance Analyst, Revenue Analyst&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Sales&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Sales Analyst, Sales Operations Analyst, Sales Engineer&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Marketing&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Advertising Analyst, Web Analyst, Marketing Analyst, Marketing Operations Analyst&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Human Resouces&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;HR Analyst, People Analyst, Workforce Analyst&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Operations&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Operations Analyst, Logistics Analyst, Supply Chain Analyst&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;further-reading-on-distinctions-between-different-roles&#34;&gt;Further reading on distinctions between different roles&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6&#34; target=&#34;_blank&#34;&gt;Robert Chang&lt;/a&gt; on how data science changes as startup companies scale.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.quora.com/What-is-data-science/answer/Michael-Hochster&#34; target=&#34;_blank&#34;&gt;Michael Hochster&lt;/a&gt; on Type A vs Type B Data Scientists&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mpopov.com/blog/2018/5/24/data-analyst-vs-data-scientist-industry-perspectives&#34; target=&#34;_blank&#34;&gt;Mikhail Popov&lt;/a&gt; on the distinction between Data Analyst and Data Scientists&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://eng.lyft.com/whats-in-a-name-ce42f419d16c&#34; target=&#34;_blank&#34;&gt;Nicholas Chamandy&lt;/a&gt; on how the company has rebranded Data Analysts as Data Scientists, and Data Scientists as Research Scientists.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;some-fun-and-games-about-data-science-titles&#34;&gt;Some fun and games about data science titles&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://thebolditalic.com/so-what-do-data-scientists-actually-do-33134ba4a31d&#34; target=&#34;_blank&#34;&gt;So What Do Data Scientists Actually Do? Suggestions for a more accurate job title&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.forbes.com/sites/brentdykes/2018/04/26/data-samurai-why-your-business-needs-a-new-breed-of-data-analyst/#52e42a4d4612&#34; target=&#34;_blank&#34;&gt;Data Samurai: Why Your Business Needs A New Breed Of Data Analyst&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;data-focussed-meetups-in-new-york&#34;&gt;Data-focussed Meetups in New York&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;General&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Affinity Group Focussed&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Context&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.meetup.com/NYC-Machine-Learning/&#34; target=&#34;_blank&#34;&gt;NYC Machine Learning&lt;/a&gt;, &lt;a href=&#34;https://www.meetup.com/DataVisualization/&#34; target=&#34;_blank&#34;&gt;Data Visualization Meetup&lt;/a&gt;, &lt;a href=&#34;https://www.meetup.com/Data-Storytelling-NYC/&#34; target=&#34;_blank&#34;&gt;Data Storytelling NYC&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.hiretechladies.com/join/?kid=HNTNG&#34; target=&#34;_blank&#34;&gt;Tech Ladies&lt;/a&gt;, &lt;a href=&#34;https://www.womenwhocode.com&#34; target=&#34;_blank&#34;&gt;WomenWhoCode NYC&lt;/a&gt;, &lt;a href=&#34;https://www.meetup.com/Write-Speak-Code-NYC/&#34; target=&#34;_blank&#34;&gt;Write/Speak/Code NYC&lt;/a&gt;, &lt;a href=&#34;https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/&#34; target=&#34;_blank&#34;&gt;Women in Machine Learning and Data Science NYC&lt;/a&gt;, &lt;a href=&#34;https://www.meetup.com/Women-in-Software-Engineering-NYC/&#34; target=&#34;_blank&#34;&gt;Women in Software Engineering NYC&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Platform Specific&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.meetup.com/nyhackr/&#34; target=&#34;_blank&#34;&gt;NY R Meetup Group&lt;/a&gt;, &lt;a href=&#34;https://www.meetup.com/nycpython/&#34; target=&#34;_blank&#34;&gt;New York Python&lt;/a&gt;, &lt;a href=&#34;https://www.meetup.com/meetup-group-XwKEpidf/&#34; target=&#34;_blank&#34;&gt;Looker NYC&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/&#34; target=&#34;_blank&#34;&gt;NY R Ladies&lt;/a&gt;, &lt;a href=&#34;https://www.meetup.com/NYC-PyLadies/&#34; target=&#34;_blank&#34;&gt;NY PyLadies&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;industry-focussed&#34;&gt;Industry Focussed:&lt;/h3&gt;
-
-&lt;p&gt;NB: These have few links. Please populate!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/HRAnalyticsPros/&#34; target=&#34;_blank&#34;&gt;New York Strategic HR Analytics Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Healthcare&lt;/li&gt;
-&lt;li&gt;Finance&lt;/li&gt;
-&lt;li&gt;Advertising/Marketing&lt;/li&gt;
-&lt;li&gt;Security&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tapwage-collections&#34;&gt;Tapwage Collections&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tapwage.com/channel/data-science-superstar&#34; target=&#34;_blank&#34;&gt;Jobs for Data Scientists at Venture-Backed Startups&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tapwage.com/channel/painting-pictures-with-data&#34; target=&#34;_blank&#34;&gt;Jobs for Data Visualization Developers and Designers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tapwage.com/channel/data-driven-mbas-at-startups&#34; target=&#34;_blank&#34;&gt;Startup Roles for MBAs Involving Data Analytics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tapwage.com/channel/data-driven-mbas-at-big-corporates&#34; target=&#34;_blank&#34;&gt;Corporate Roles for MBAs Involving Data Analytics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tapwage.com/channel/data-driven-internships&#34; target=&#34;_blank&#34;&gt;Internships Involving Data Analytics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;recommended-career-resources&#34;&gt;Recommended Career Resources&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data Science Recruiting Series by &lt;a href=&#34;http://hookedondata.org/&#34; target=&#34;_blank&#34;&gt;Emily Robinson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Career Development by &lt;a href=&#34;https://larahogan.me/blog/&#34; target=&#34;_blank&#34;&gt;Lara Hogan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Resume and Career Profile for Data Scientists &lt;a href=&#34;https://www.youtube.com/watch?v=xrhPjE7wHas&amp;amp;list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&#34; target=&#34;_blank&#34;&gt;Presentation by William Chen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Am I a Good Fit? Identifying Your Best Data Science Job Opportunities &lt;a href=&#34;https://www.youtube.com/watch?v=0W0Zrc-m5r8&amp;amp;list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&amp;amp;index=2&#34; target=&#34;_blank&#34;&gt;Presentation by Jessica Kirkpatrick&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using Embeddings to Understand the Variance and Evolution of Data Science Skill Sets</title>
-      <link>https://www.maryamjahanshahi.com/talk/wiaconferenceoh-2019/</link>
-      <pubDate>Fri, 14 Sep 2018 19:25:25 -0400</pubDate>
-      
-      <guid>https://www.maryamjahanshahi.com/talk/wiaconferenceoh-2019/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 title = "Algorithmic Responsibility in HR and Recruiting"
 date = 2020-05-11T19:24:43-04:00  # Schedule page publish date.
 draft = false
-selected = true
+selected = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -33,8 +33,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
-url_video = ""
+url_slides = "files/reframework-nyc-2020.pdf"
+url_video = "https://www.youtube.com/watch?v=JuI5C_ONdCw"
 url_code = ""
 
 # Does the content use math formatting?
